@@ -1,6 +1,6 @@
 {
   "private": true,
-  "author": "Bode He <bode_he@epam.com>",
+  "author": "",
   "scripts": {
     "dev": "max dev",
     "build": "max build",
