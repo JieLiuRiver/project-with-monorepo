@@ -26,6 +26,7 @@ importers:
       prettier: ^2.3.2
       reflect-metadata: ^0.1.13
       rxjs: ^7.2.0
+      shared-lib: link:../../packages/shared-lib
       source-map-support: ^0.5.20
       supertest: ^6.1.3
       ts-jest: 29.0.3
@@ -39,6 +40,7 @@ importers:
       '@nestjs/platform-express': 9.3.7_zmctrozi6xxh3beaccl6ebop6u
       reflect-metadata: 0.1.13
       rxjs: 7.8.0
+      shared-lib: link:../../packages/shared-lib
     devDependencies:
       '@nestjs/cli': 9.2.0
       '@nestjs/schematics': 9.0.4_typescript@4.9.5
@@ -74,12 +76,14 @@ importers:
       prettier: ^2.7.1
       prettier-plugin-organize-imports: ^2
       prettier-plugin-packagejson: ^2
+      shared-lib: link:../../packages/shared-lib
       typescript: ^4.1.2
     dependencies:
       '@ant-design/icons': 4.8.0
       '@ant-design/pro-components': 2.3.54_antd@5.2.0
       '@umijs/max': 4.0.51_upln644bkpvnhepeneg4667hum
       antd: 5.2.0
+      shared-lib: link:../../packages/shared-lib
     devDependencies:
       '@types/react': 18.0.27
       '@types/react-dom': 18.0.10

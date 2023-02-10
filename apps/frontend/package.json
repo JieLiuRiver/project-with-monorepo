@@ -13,7 +13,8 @@
     "@ant-design/icons": "^4.7.0",
     "@ant-design/pro-components": "^2.0.1",
     "@umijs/max": "^4.0.51",
-    "antd": "^5.0.0"
+    "antd": "^5.0.0",
+    "shared-lib": "link:../../packages/shared-lib"
   },
   "devDependencies": {
     "@types/react": "^18.0.0",
